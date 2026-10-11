@@ -1,0 +1,6 @@
+{
+  "name": "Tây Du Ký - 570 Từ Vựng Tiếng Anh AWL Cốt Lõi",
+  "description": "Ứng dụng học 570 từ vựng Academic Word List mô phỏng hành trình Thỉnh Kinh Tây Du Ký với Boss Battle, Flashcards và Gemini AI Tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
